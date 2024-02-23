@@ -1,36 +1,65 @@
-*{
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    font-size: 10px;
+  font-size: 10px;
 }
 
 .wrapper {
-    width: 90%;
-    max-width: 1200px;
-    margin: 0 auto;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* <!-- header section antonio --> start*/
 
 /* <!-- header section antonio --> end */
 
-
-
 /* <!-- Fredda section1 start  --> */
 
 /* <!-- Fredda section1 end  --> */
-
-
 
 /* <!-- Duwayne  section 2--> start */
 
 /* <!-- Duwayne  section 2--> end */
 
 /* <!-- Ruksar section 3--> start*/
+.section-3 {
+  background-color: #f4f4f4;
+}
+
+.section-3 h3 {
+  text-align: center;
+  font-size: 3.1rem;
+  margin: 2.1rem;
+  font-weight: bold;
+  color: #333333;
+}
+
+.about {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 1.4rem;
+  line-height: 1.6;
+}
+
+.btn {
+  text-align: center;
+}
+
+button {
+  background-color: #143f85;
+  padding: 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+.img {
+  margin-top: 2.1rem;
+}
 
 /* <!-- Ruksar section 3-->  ednd*/
 
@@ -38,7 +67,4 @@ html {
 
 /* <!-- Tania section 4 end --> */
 
-
-
 /* <!-- ismaeel start--> */
-
