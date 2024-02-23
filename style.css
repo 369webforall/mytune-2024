@@ -38,10 +38,12 @@ html {
 .footer {
   background-color: #252529;
   color: white;
+  line-height: 1.6;
 }
 
 .footer-flex {
   display: flex;
+  padding: 40px 0;
 }
 
 .footer-card {
@@ -50,11 +52,13 @@ html {
 
 .footer-ul {
   list-style: none;
+  font-size: 1.5rem;
 }
 
-.footer-line {
-  height: 2px;
-  border: 2px;
-  width: 100%;
-  border-color: white;
+.footer-h4 {
+  font-size: 2.4rem;
+  padding: 10px 0;
+  border-bottom: 1px solid white;
+  width: 80%;
+  margin-bottom: 10px;
 }
