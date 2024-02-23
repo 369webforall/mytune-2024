@@ -1,44 +1,78 @@
-*{
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    font-size: 10px;
+  font-size: 10px;
+}
+
+body {
+  font-family: sans-serif;
 }
 
 .wrapper {
-    width: 90%;
-    max-width: 1200px;
-    margin: 0 auto;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
-/* <!-- header section antonio --> start*/
+/* <!-- header section antonio --> start */
 
 /* <!-- header section antonio --> end */
-
-
 
 /* <!-- Fredda section1 start  --> */
 
 /* <!-- Fredda section1 end  --> */
 
-
-
 /* <!-- Duwayne  section 2--> start */
 
 /* <!-- Duwayne  section 2--> end */
 
-/* <!-- Ruksar section 3--> start*/
+/* <!-- Ruksar section 3--> start */
 
-/* <!-- Ruksar section 3-->  ednd*/
+/* <!-- Ruksar section 3-->  ednd */
 
 /* <!-- Tania section 4 start --> */
 
 /* <!-- Tania section 4 end --> */
 
-
-
 /* <!-- ismaeel start--> */
+.footer {
+  background-color: #252529;
+  color: white;
+  line-height: 1.6;
+}
 
+.footer-flex {
+  display: flex;
+  padding: 40px 0;
+}
+
+.footer-card {
+  flex-basis: 25%;
+}
+
+.footer-ul {
+  list-style: none;
+  font-size: 1.5rem;
+}
+
+.footer-h4 {
+  font-size: 2.2rem;
+  padding: 10px 0;
+  border-bottom: 1px solid white;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.copy-right {
+  background-color: #333;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1.5rem;
+}
