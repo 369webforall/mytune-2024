@@ -14,7 +14,7 @@ html {
   margin: 0 auto;
 }
 
-/* <!-- header section antonio --> start*/
+/* <!-- header section antonio --> start */
 
 /* <!-- header section antonio --> end */
 
@@ -26,9 +26,9 @@ html {
 
 /* <!-- Duwayne  section 2--> end */
 
-/* <!-- Ruksar section 3--> start*/
+/* <!-- Ruksar section 3--> start */
 
-/* <!-- Ruksar section 3-->  ednd*/
+/* <!-- Ruksar section 3-->  ednd */
 
 /* <!-- Tania section 4 start --> */
 .container {
@@ -44,7 +44,7 @@ div {
 
 .section4 {
   background: #f4f4f4;
-  color: #333;#f4f4f4
+  color: #333;
 }
 
 .section-4 {
@@ -52,37 +52,37 @@ div {
 }
 
 h4 {
-    font-family: 'PT Sans', sans-serif;
-    font-size: 3rem;
-    font-weight: bold;
-    padding: 30px;
+  font-family: "PT Sans", sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 30px;
 }
 
 p {
-    font-family: 'PT Sans', sans-serif;
-    display: block;
-    padding: 30px;
+  font-family: "PT Sans", sans-serif;
+  display: block;
+  padding: 30px;
 }
 
 .info {
-    font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
 .btn-secondary {
-    background: #103063;
-    margin-bottom: 20px;
+  background: #103063;
+  margin-bottom: 20px;
 }
 
 .btn {
-    padding: 2rem;
-    font-size: 1.3rem;
-    font-weight: bold;
-    color: #fff;
-    display: inline-block;
+  padding: 2rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #fff;
+  display: inline-block;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 img {
@@ -98,6 +98,7 @@ img {
   padding-top: 10rem;
   padding-bottom: 10rem;
 }
+
 /* <!-- Tania section 4 end --> */
 
 /* <!-- ismaeel start--> */
