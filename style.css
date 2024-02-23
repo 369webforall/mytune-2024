@@ -27,6 +27,55 @@ body {
 /* <!-- Fredda section1 end  --> */
 
 /* <!-- Duwayne  section 2--> start */
+.section2 {
+  text-align: center;
+  background-color: #252529;
+  color: white;
+  font-size: 2rem;
+}
+
+.section2 h3 {
+  font-size: 3rem;
+  padding-bottom: 2rem;
+}
+
+.para1 {
+  font-size: 2rem;
+  padding-bottom: 2rem;
+}
+
+.section2 a{
+  background-color: red;
+  padding: 20px 20px;
+  margin-top: 50px 100px;
+  font-size: 1.5rem;
+}
+
+.wrapper_head {
+  font-size: 4rem;
+  margin: 0;
+  padding-bottom: 2rem;
+  padding: 2rem 0;
+}
+
+.para2 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-size: medium;
+}
+
+.btn {
+  padding: 1rem 1rem;
+  color: #fff;
+  display: inline-block;
+  text-decoration: none;
+  margin-bottom: 1rem;
+}
+
+
+.btn-primary {
+  background: #b90415;
+}
 
 /* <!-- Duwayne  section 2--> end */
 
