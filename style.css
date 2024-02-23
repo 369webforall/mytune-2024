@@ -46,15 +46,13 @@ html {
   line-height: 1.6;
 }
 
-.btn {
-  text-align: center;
-}
-
 button {
   background-color: #143f85;
   padding: 1rem;
   color: white;
   text-decoration: none;
+  margin: auto;
+  display: block;
 }
 
 .img {
