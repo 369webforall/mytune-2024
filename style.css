@@ -1,30 +1,26 @@
-*{
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    font-size: 10px;
+  font-size: 10px;
 }
 
 .wrapper {
-    width: 90%;
-    max-width: 1200px;
-    margin: 0 auto;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* <!-- header section antonio --> start*/
 
 /* <!-- header section antonio --> end */
 
-
-
 /* <!-- Fredda section1 start  --> */
 
 /* <!-- Fredda section1 end  --> */
-
-
 
 /* <!-- Duwayne  section 2--> start */
 
@@ -38,7 +34,27 @@ html {
 
 /* <!-- Tania section 4 end --> */
 
-
-
 /* <!-- ismaeel start--> */
+.footer {
+  background-color: #252529;
+  color: white;
+}
 
+.footer-flex {
+  display: flex;
+}
+
+.footer-card {
+  flex-basis: 25%;
+}
+
+.footer-ul {
+  list-style: none;
+}
+
+.footer-line {
+  height: 2px;
+  border: 2px;
+  width: 100%;
+  border-color: white;
+}
