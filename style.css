@@ -20,6 +20,38 @@ body {
 
 /* <!-- header section antonio --> start */
 
+header{
+
+    height: 40px;
+    width: 100%;
+    background-color: #333;
+    color: rgb(51, 34, 34);
+    position: fixed;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+nev{
+
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+nav a {
+    
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 0;
+    color: #eee;
+    text-decoration: none;
+    font-size: 1.5rem;
+  }
+
+  nav a:hover {
+    background-color:rgba(128, 128, 128, 0.164);
+
+  }
 /* <!-- header section antonio --> end */
 
 /* <!-- Fredda section1 start  --> */
