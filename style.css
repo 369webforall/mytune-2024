@@ -238,3 +238,14 @@ figure > img {
 /* dev card section end */
 
 /* <!-- ismaeel start--> */
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 16px;
+}
+
+.footer-flex {
+  display: flex;
+  gap:16px;
+}
