@@ -20,38 +20,36 @@ body {
 
 /* <!-- header section antonio --> start */
 
-header{
-
-    height: 40px;
-    width: 100%;
-    background-color: #333;
-    color: rgb(51, 34, 34);
-    position: fixed;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  
+header {
+  height: 40px;
+  width: 100%;
+  background-color: #333;
+  color: rgb(51, 34, 34);
+  position: fixed;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-nev{
 
-    display: flex;
-    align-items: center;
-    gap: 2rem;
+nev {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
 }
+
 nav a {
-    
-    display: inline-block;
-    width: 100px;
-    text-align: center;
-    text-decoration: none;
-    padding: 10px 0;
-    color: #eee;
-    text-decoration: none;
-    font-size: 1.5rem;
-  }
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px 0;
+  color: #eee;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
 
-  nav a:hover {
-    background-color:rgba(128, 128, 128, 0.164);
+nav a:hover {
+  background-color: rgba(128, 128, 128, 0.164);
+}
 
-  }
 /* <!-- header section antonio --> end */
 
 /* <!-- Fredda section1 start  --> */
@@ -220,6 +218,7 @@ img {
 .card-section {
   margin: 20px 0;
 }
+
 .card {
   display: flex;
   align-items: center;
@@ -227,21 +226,24 @@ img {
   position: relative;
 }
 
-.card-text h2{
-font-size: 3rem;
+.card-text h2 {
+  font-size: 3rem;
 }
-p{
+
+.card p {
   font-size: 1.8rem;
 }
-.card hr{
+
+.card hr {
   max-width: 90%;
   margin: 0 auto;
 }
 
-figure>img {
-width: 100%;
-object-fit: contain;
+figure > img {
+  width: 100%;
+  object-fit: contain;
 }
+
 /* dev card section end */
 
 /* <!-- ismaeel start--> */
