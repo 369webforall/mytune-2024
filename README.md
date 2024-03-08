@@ -18,4 +18,7 @@ group project, html, css
 - git push
 
 
-
+## git checkout development
+git pull origin
+git checkout dev/footer
+git merge development
