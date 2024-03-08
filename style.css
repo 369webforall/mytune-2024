@@ -216,4 +216,32 @@ img {
 
 /* <!-- Tania section 4 end --> */
 
+/* dev card section */
+.card-section {
+  margin: 20px 0;
+}
+.card {
+  display: flex;
+  align-items: center;
+  gap: 5rem;
+  position: relative;
+}
+
+.card-text h2{
+font-size: 3rem;
+}
+p{
+  font-size: 1.8rem;
+}
+.card hr{
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+figure>img {
+width: 100%;
+object-fit: contain;
+}
+/* dev card section end */
+
 /* <!-- ismaeel start--> */
